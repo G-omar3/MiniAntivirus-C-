@@ -1,0 +1,4 @@
+# sha256;malware_name;severity
+# Replace or extend these entries with real threat intelligence hashes.
+4f4f7f0ca942e9026dc4f7f79d0d6230d1a59f02e4fd8cb4fb594fdd4c8c8a2d;Demo.Sample.Trojan;High
+44d88612fea8a8f36de82e1278abb02f4d0b77c0e7d4d0d3d6640f5382ab8f0e;Demo.EICAR.Placeholder;Medium

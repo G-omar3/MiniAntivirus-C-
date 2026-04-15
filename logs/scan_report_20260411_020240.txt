@@ -1,0 +1,12 @@
+MiniAntivirus Scan Report
+Timestamp: 2026-04-11 02:02:40
+Target: C:\Users\Omarg\Downloads\Cisco 1700
+Interrupted: no
+
+STATUS    FILENAME                        SCORE   REASON
+------------------------------------------------------------------------------------------------
+CLEAN     c1700-adventerprisek9-mz.124... 0       no suspicious indicators
+CLEAN     c1700-adventerprisek9-mz.124... 0       no suspicious indicators
+
+Summary:
+ total=2 clean=2 warning=0 suspect=0 malware=0 errors=0 quarantined=0

@@ -1,0 +1,3 @@
+status,path,filename,size_bytes,score,reason,threat_name,severity,sha256,quarantine_path
+"CLEAN","C:\Users\Omarg\Downloads\Cisco 1700\Cisco 1700\c1700-adventerprisek9-mz.124-25d.image","c1700-adventerprisek9-mz.124-25d.image",57475320,0,"no suspicious indicators","","","e51181a41aec9a56f0da52a1204e0a2054e9fe026d464ef6905af2927f3fad90",""
+"CLEAN","C:\Users\Omarg\Downloads\Cisco 1700\Cisco 1700\c1700-adventerprisek9-mz.124-25d.image.md5sum","c1700-adventerprisek9-mz.124-25d.image.md5sum",32,0,"no suspicious indicators","","","ee457592aa71a77838fdbe8d8db6b827652570ac09142266f79315ca455fcef5",""

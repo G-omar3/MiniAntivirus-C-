@@ -1,0 +1,2 @@
+status,path,filename,size_bytes,score,reason,threat_name,severity,sha256,quarantine_path
+"CLEAN","samples\README.txt","README.txt",317,0,"no suspicious indicators","","","315ea708531f1740d8c7542132590e306e9f90de8d14fe8e1b1686c332e20d8f",""

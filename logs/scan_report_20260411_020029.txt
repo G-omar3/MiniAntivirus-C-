@@ -1,0 +1,11 @@
+MiniAntivirus Scan Report
+Timestamp: 2026-04-11 02:00:29
+Target: samples
+Interrupted: no
+
+STATUS    FILENAME                        SCORE   REASON
+------------------------------------------------------------------------------------------------
+CLEAN     README.txt                      0       no suspicious indicators
+
+Summary:
+ total=1 clean=1 warning=0 suspect=0 malware=0 errors=0 quarantined=0
